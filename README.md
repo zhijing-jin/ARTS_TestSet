@@ -18,10 +18,6 @@ We generate our new probing test set by **three automatic strategies**:
   margin-left: auto;
   margin-right: auto; "/>
 
-## Aspect Probing Results
-We probed nine ABSA models (as mentioned in our paper). 
-- Their outputs on SemEval 2014 are in the [output](output) folder.
-
 ### Aspect Probing Results
 We probed nine ABSA models (as mentioned in our paper). 
 - Their outputs on SemEval 2014 are in the [output](output) folder.
