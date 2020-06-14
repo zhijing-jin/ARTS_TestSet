@@ -1,0 +1,4 @@
+nltk
+language-check
+allennlp
+stanza

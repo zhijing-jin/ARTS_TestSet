@@ -1,0 +1,1713 @@
+{
+    "3003": {
+        "sentence": "The fish is fresh and each piece is sliced to perfection and seasoned by the sushi chef (usually with a little fresh wasabi and soy sauce but also sometimes with some sea salt).",
+        "term_list": {
+            "3003_3": {
+                "id": "3003_3",
+                "polarity": "positive",
+                "term": "sushi chef",
+                "from": 77,
+                "to": 87,
+                "opinion_words": [
+                    "seasoned"
+                ],
+                "opinion_position": [
+                    [
+                        61,
+                        69
+                    ]
+                ]
+            },
+            "3003_4": {
+                "id": "3003_4",
+                "polarity": "positive",
+                "term": "wasabi",
+                "from": 117,
+                "to": 123,
+                "opinion_words": [
+                    "fresh"
+                ],
+                "opinion_position": [
+                    [
+                        111,
+                        116
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": true,
+        "id": "3003"
+    },
+    "3581": {
+        "sentence": "My son and his girlfriend both wanted cheeseburgers and they were huge!",
+        "term_list": {
+            "3581_0": {
+                "id": "3581_0",
+                "polarity": "positive",
+                "term": "cheeseburgers",
+                "from": 38,
+                "to": 51,
+                "opinion_words": [
+                    "huge"
+                ],
+                "opinion_position": [
+                    [
+                        66,
+                        70
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": false,
+        "id": "3581"
+    },
+    "2435": {
+        "sentence": "I really recommend the very simple Unda (Egg) rolls.",
+        "term_list": {
+            "2435_0": {
+                "id": "2435_0",
+                "polarity": "positive",
+                "term": "Unda (Egg) rolls",
+                "from": 35,
+                "to": 51,
+                "opinion_words": [
+                    "recommend",
+                    "simple"
+                ],
+                "opinion_position": [
+                    [
+                        9,
+                        18
+                    ],
+                    [
+                        28,
+                        34
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": false,
+        "id": "2435"
+    },
+    "943": {
+        "sentence": "Very good wine choices.",
+        "term_list": {
+            "943_0": {
+                "id": "943_0",
+                "polarity": "positive",
+                "term": "wine choices",
+                "from": 10,
+                "to": 22,
+                "opinion_words": [
+                    "good"
+                ],
+                "opinion_position": [
+                    [
+                        5,
+                        9
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": false,
+        "id": "943"
+    },
+    "2516": {
+        "sentence": "This is the only Thai place I go too in NYC, it's wonderful, and live relaxed Jazz on certain nights.",
+        "term_list": {
+            "2516_0": {
+                "id": "2516_0",
+                "polarity": "positive",
+                "term": "Jazz",
+                "from": 78,
+                "to": 82,
+                "opinion_words": [
+                    "relaxed"
+                ],
+                "opinion_position": [
+                    [
+                        70,
+                        77
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": false,
+        "id": "2516"
+    },
+    "3647": {
+        "sentence": "We were seated and ignored by waitstaff.",
+        "term_list": {
+            "3647_0": {
+                "id": "3647_0",
+                "polarity": "negative",
+                "term": "waitstaff",
+                "from": 30,
+                "to": 39,
+                "opinion_words": [
+                    "ignored"
+                ],
+                "opinion_position": [
+                    [
+                        19,
+                        26
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": false,
+        "id": "3647"
+    },
+    "1980": {
+        "sentence": "Tasty steak, pork loin, the works.",
+        "term_list": {
+            "1980_1": {
+                "id": "1980_1",
+                "polarity": "positive",
+                "term": "steak",
+                "from": 6,
+                "to": 11,
+                "opinion_words": [
+                    "Tasty"
+                ],
+                "opinion_position": [
+                    [
+                        0,
+                        5
+                    ]
+                ]
+            },
+            "1980_0": {
+                "id": "1980_0",
+                "polarity": "positive",
+                "term": "pork loin",
+                "from": 13,
+                "to": 22,
+                "opinion_words": [
+                    "Tasty"
+                ],
+                "opinion_position": [
+                    [
+                        0,
+                        5
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": true,
+        "id": "1980"
+    },
+    "687": {
+        "sentence": "I'd highly recommend it for a special occasion -- it provides and intimate setting and nice service.",
+        "term_list": {
+            "687_0": {
+                "id": "687_0",
+                "polarity": "positive",
+                "term": "setting",
+                "from": 75,
+                "to": 82,
+                "opinion_words": [
+                    "intimate"
+                ],
+                "opinion_position": [
+                    [
+                        66,
+                        74
+                    ]
+                ]
+            },
+            "687_1": {
+                "id": "687_1",
+                "polarity": "positive",
+                "term": "service",
+                "from": 92,
+                "to": 99,
+                "opinion_words": [
+                    "nice"
+                ],
+                "opinion_position": [
+                    [
+                        87,
+                        91
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": true,
+        "id": "687"
+    },
+    "732": {
+        "sentence": "The burger was great, also.",
+        "term_list": {
+            "732_0": {
+                "id": "732_0",
+                "polarity": "positive",
+                "term": "burger",
+                "from": 4,
+                "to": 10,
+                "opinion_words": [
+                    "great"
+                ],
+                "opinion_position": [
+                    [
+                        15,
+                        20
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": false,
+        "id": "732"
+    },
+    "1508": {
+        "sentence": "they did give a 15% discount at the end, wasn't enough, as they knew the service was horrible.",
+        "term_list": {
+            "1508_1": {
+                "id": "1508_1",
+                "polarity": "negative",
+                "term": "discount",
+                "from": 20,
+                "to": 28,
+                "opinion_words": [
+                    "wasn't enough"
+                ],
+                "opinion_position": [
+                    [
+                        41,
+                        54
+                    ]
+                ]
+            },
+            "1508_0": {
+                "id": "1508_0",
+                "polarity": "negative",
+                "term": "service",
+                "from": 73,
+                "to": 80,
+                "opinion_words": [
+                    "horrible"
+                ],
+                "opinion_position": [
+                    [
+                        85,
+                        93
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": true,
+        "id": "1508"
+    },
+    "1610": {
+        "sentence": "The pizza was great.",
+        "term_list": {
+            "1610_0": {
+                "id": "1610_0",
+                "polarity": "positive",
+                "term": "pizza",
+                "from": 4,
+                "to": 9,
+                "opinion_words": [
+                    "great"
+                ],
+                "opinion_position": [
+                    [
+                        14,
+                        19
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": false,
+        "id": "1610"
+    },
+    "1139": {
+        "sentence": "I had never had Edamame pureed before but I thought it was innovative and tasty (could've used a bit more salt).",
+        "term_list": {
+            "1139_0": {
+                "id": "1139_0",
+                "polarity": "positive",
+                "term": "Edamame pureed",
+                "from": 16,
+                "to": 30,
+                "opinion_words": [
+                    "innovative",
+                    "tasty"
+                ],
+                "opinion_position": [
+                    [
+                        59,
+                        69
+                    ],
+                    [
+                        74,
+                        79
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": false,
+        "id": "1139"
+    },
+    "1808": {
+        "sentence": "however, it's the service that leaves a bad taste in my mouth.",
+        "term_list": {
+            "1808_0": {
+                "id": "1808_0",
+                "polarity": "negative",
+                "term": "service",
+                "from": 18,
+                "to": 25,
+                "opinion_words": [
+                    "bad taste"
+                ],
+                "opinion_position": [
+                    [
+                        40,
+                        49
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": false,
+        "id": "1808"
+    },
+    "2226": {
+        "sentence": "The price was extremely reasonable for the appetizers and food we ate.",
+        "term_list": {
+            "2226_2": {
+                "id": "2226_2",
+                "polarity": "positive",
+                "term": "price",
+                "from": 4,
+                "to": 9,
+                "opinion_words": [
+                    "reasonable"
+                ],
+                "opinion_position": [
+                    [
+                        24,
+                        34
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": true,
+        "id": "2226"
+    },
+    "2066": {
+        "sentence": "Don't dine at Tamarind for the vegetarian dishes, they are simply not up to par with the non-veg selections.",
+        "term_list": {
+            "2066_1": {
+                "id": "2066_1",
+                "polarity": "negative",
+                "term": "vegetarian dishes",
+                "from": 31,
+                "to": 48,
+                "opinion_words": [
+                    "not up to par"
+                ],
+                "opinion_position": [
+                    [
+                        66,
+                        79
+                    ]
+                ]
+            }
+        },
+        "contra": true,
+        "multi": true,
+        "id": "2066"
+    },
+    "2197": {
+        "sentence": "They need a kick out of it but until then the sushi is pretty good and the place is consistent.",
+        "term_list": {
+            "2197_1": {
+                "id": "2197_1",
+                "polarity": "positive",
+                "term": "sushi",
+                "from": 46,
+                "to": 51,
+                "opinion_words": [
+                    "good"
+                ],
+                "opinion_position": [
+                    [
+                        62,
+                        66
+                    ]
+                ]
+            },
+            "2197_0": {
+                "id": "2197_0",
+                "polarity": "positive",
+                "term": "place",
+                "from": 75,
+                "to": 80,
+                "opinion_words": [
+                    "consistent"
+                ],
+                "opinion_position": [
+                    [
+                        84,
+                        94
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": true,
+        "id": "2197"
+    },
+    "547": {
+        "sentence": "I've had to wait only a few times during lunch but this place is definitely worth the wait.",
+        "term_list": {
+            "547_0": {
+                "id": "547_0",
+                "polarity": "positive",
+                "term": "wait",
+                "from": 12,
+                "to": 16,
+                "opinion_words": [
+                    "worth the wait"
+                ],
+                "opinion_position": [
+                    [
+                        76,
+                        90
+                    ]
+                ]
+            }
+        },
+        "contra": true,
+        "multi": true,
+        "id": "547"
+    },
+    "2782": {
+        "sentence": "All in all the food was above average and I would return to see how they operate with four or less dinners.",
+        "term_list": {
+            "2782_1": {
+                "id": "2782_1",
+                "polarity": "positive",
+                "term": "food",
+                "from": 15,
+                "to": 19,
+                "opinion_words": [
+                    "above average"
+                ],
+                "opinion_position": [
+                    [
+                        24,
+                        37
+                    ]
+                ]
+            }
+        },
+        "contra": true,
+        "multi": true,
+        "id": "2782"
+    },
+    "1398": {
+        "sentence": "Delicious food, excellent service, and a pretty atmosphere make this a great choice for dinner and the $ 5.99 lunch buffet makes it an even better choice for lunch!",
+        "term_list": {
+            "1398_3": {
+                "id": "1398_3",
+                "polarity": "positive",
+                "term": "food",
+                "from": 10,
+                "to": 14,
+                "opinion_words": [
+                    "Delicious"
+                ],
+                "opinion_position": [
+                    [
+                        0,
+                        9
+                    ]
+                ]
+            },
+            "1398_4": {
+                "id": "1398_4",
+                "polarity": "positive",
+                "term": "service",
+                "from": 26,
+                "to": 33,
+                "opinion_words": [
+                    "excellent"
+                ],
+                "opinion_position": [
+                    [
+                        16,
+                        25
+                    ]
+                ]
+            },
+            "1398_2": {
+                "id": "1398_2",
+                "polarity": "positive",
+                "term": "atmosphere",
+                "from": 48,
+                "to": 58,
+                "opinion_words": [
+                    "pretty"
+                ],
+                "opinion_position": [
+                    [
+                        41,
+                        47
+                    ]
+                ]
+            },
+            "1398_0": {
+                "id": "1398_0",
+                "polarity": "positive",
+                "term": "lunch buffet",
+                "from": 110,
+                "to": 122,
+                "opinion_words": [
+                    "better"
+                ],
+                "opinion_position": [
+                    [
+                        140,
+                        146
+                    ]
+                ]
+            },
+            "1398_5": {
+                "id": "1398_5",
+                "polarity": "positive",
+                "term": "dinner",
+                "from": 88,
+                "to": 94,
+                "opinion_words": [
+                    "great"
+                ],
+                "opinion_position": [
+                    [
+                        71,
+                        76
+                    ]
+                ]
+            },
+            "1398_1": {
+                "id": "1398_1",
+                "polarity": "positive",
+                "term": "lunch",
+                "from": 158,
+                "to": 163,
+                "opinion_words": [
+                    "better"
+                ],
+                "opinion_position": [
+                    [
+                        140,
+                        146
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": true,
+        "id": "1398"
+    },
+    "2406": {
+        "sentence": "For appetizers, I recommend the shrimp fritters and dumplings.",
+        "term_list": {
+            "2406_0": {
+                "id": "2406_0",
+                "polarity": "positive",
+                "term": "shrimp fritters",
+                "from": 32,
+                "to": 47,
+                "opinion_words": [
+                    "recommend"
+                ],
+                "opinion_position": [
+                    [
+                        18,
+                        27
+                    ]
+                ]
+            },
+            "2406_1": {
+                "id": "2406_1",
+                "polarity": "positive",
+                "term": "dumplings",
+                "from": 52,
+                "to": 61,
+                "opinion_words": [
+                    "recommend"
+                ],
+                "opinion_position": [
+                    [
+                        18,
+                        27
+                    ]
+                ]
+            }
+        },
+        "contra": true,
+        "multi": true,
+        "id": "2406"
+    },
+    "3625": {
+        "sentence": "Such nice people working here - but I have to review the food.",
+        "term_list": {
+            "3625_0": {
+                "id": "3625_0",
+                "polarity": "positive",
+                "term": "people",
+                "from": 10,
+                "to": 16,
+                "opinion_words": [
+                    "nice"
+                ],
+                "opinion_position": [
+                    [
+                        5,
+                        9
+                    ]
+                ]
+            }
+        },
+        "contra": true,
+        "multi": true,
+        "id": "3625"
+    },
+    "2652": {
+        "sentence": "The restaurant is dark and not very attractive and then you have spot lights shining on you putting you in the worst light possible, reaching for sunglasses.",
+        "term_list": {
+            "2652_0": {
+                "id": "2652_0",
+                "polarity": "negative",
+                "term": "spot lights",
+                "from": 65,
+                "to": 76,
+                "opinion_words": [
+                    "worst"
+                ],
+                "opinion_position": [
+                    [
+                        111,
+                        116
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": false,
+        "id": "2652"
+    },
+    "444": {
+        "sentence": "Veal Parmigana - Better than Patsy's!",
+        "term_list": {
+            "444_0": {
+                "id": "444_0",
+                "polarity": "positive",
+                "term": "Veal Parmigana",
+                "from": 0,
+                "to": 14,
+                "opinion_words": [
+                    "Better"
+                ],
+                "opinion_position": [
+                    [
+                        17,
+                        23
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": false,
+        "id": "444"
+    },
+    "2467": {
+        "sentence": "Great wine, great food.",
+        "term_list": {
+            "2467_0": {
+                "id": "2467_0",
+                "polarity": "positive",
+                "term": "wine",
+                "from": 6,
+                "to": 10,
+                "opinion_words": [
+                    "Great"
+                ],
+                "opinion_position": [
+                    [
+                        0,
+                        5
+                    ]
+                ]
+            },
+            "2467_1": {
+                "id": "2467_1",
+                "polarity": "positive",
+                "term": "food",
+                "from": 18,
+                "to": 22,
+                "opinion_words": [
+                    "great"
+                ],
+                "opinion_position": [
+                    [
+                        12,
+                        17
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": true,
+        "id": "2467"
+    },
+    "1038": {
+        "sentence": "The service was mediocre, and the lack of air conditioning made for a less than comfortable meal.",
+        "term_list": {
+            "1038_0": {
+                "id": "1038_0",
+                "polarity": "neutral",
+                "term": "service",
+                "from": 4,
+                "to": 11,
+                "opinion_words": [
+                    "mediocre"
+                ],
+                "opinion_position": [
+                    [
+                        16,
+                        24
+                    ]
+                ]
+            },
+            "1038_1": {
+                "id": "1038_1",
+                "polarity": "negative",
+                "term": "air conditioning",
+                "from": 42,
+                "to": 58,
+                "opinion_words": [
+                    "lack"
+                ],
+                "opinion_position": [
+                    [
+                        34,
+                        38
+                    ]
+                ]
+            },
+            "1038_2": {
+                "id": "1038_2",
+                "polarity": "negative",
+                "term": "meal",
+                "from": 92,
+                "to": 96,
+                "opinion_words": [
+                    "comfortable"
+                ],
+                "opinion_position": [
+                    [
+                        80,
+                        91
+                    ]
+                ]
+            }
+        },
+        "contra": true,
+        "multi": true,
+        "id": "1038"
+    },
+    "1921": {
+        "sentence": "The food and staff always surprise me with the new heights they are taken to.",
+        "term_list": {
+            "1921_1": {
+                "id": "1921_1",
+                "polarity": "positive",
+                "term": "food",
+                "from": 4,
+                "to": 8,
+                "opinion_words": [
+                    "surprise"
+                ],
+                "opinion_position": [
+                    [
+                        26,
+                        34
+                    ]
+                ]
+            },
+            "1921_0": {
+                "id": "1921_0",
+                "polarity": "positive",
+                "term": "staff",
+                "from": 13,
+                "to": 18,
+                "opinion_words": [
+                    "surprise"
+                ],
+                "opinion_position": [
+                    [
+                        26,
+                        34
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": true,
+        "id": "1921"
+    },
+    "3494": {
+        "sentence": "Went to Ottimo and was expecting outstanding pizza (as I love La Pizza Fresca).",
+        "term_list": {
+            "3494_0": {
+                "id": "3494_0",
+                "polarity": "neutral",
+                "term": "pizza",
+                "from": 45,
+                "to": 50,
+                "opinion_words": [
+                    "outstanding"
+                ],
+                "opinion_position": [
+                    [
+                        33,
+                        44
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": false,
+        "id": "3494"
+    },
+    "1770": {
+        "sentence": "honestly the worst sushi my husband and i had in our entire lives.",
+        "term_list": {
+            "1770_0": {
+                "id": "1770_0",
+                "polarity": "negative",
+                "term": "sushi",
+                "from": 19,
+                "to": 24,
+                "opinion_words": [
+                    "worst"
+                ],
+                "opinion_position": [
+                    [
+                        13,
+                        18
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": false,
+        "id": "1770"
+    },
+    "151": {
+        "sentence": "However, if you want great food at a great price and don't mind the decor, you can't beat this place.",
+        "term_list": {
+            "151_2": {
+                "id": "151_2",
+                "polarity": "positive",
+                "term": "food",
+                "from": 27,
+                "to": 31,
+                "opinion_words": [
+                    "great"
+                ],
+                "opinion_position": [
+                    [
+                        21,
+                        26
+                    ]
+                ]
+            },
+            "151_1": {
+                "id": "151_1",
+                "polarity": "positive",
+                "term": "price",
+                "from": 43,
+                "to": 48,
+                "opinion_words": [
+                    "great"
+                ],
+                "opinion_position": [
+                    [
+                        37,
+                        42
+                    ]
+                ]
+            },
+            "151_0": {
+                "id": "151_0",
+                "polarity": "negative",
+                "term": "decor",
+                "from": 68,
+                "to": 73,
+                "opinion_words": [
+                    "don't mind"
+                ],
+                "opinion_position": [
+                    [
+                        53,
+                        63
+                    ]
+                ]
+            }
+        },
+        "contra": true,
+        "multi": true,
+        "id": "151"
+    },
+    "1423": {
+        "sentence": "What makes this restaurant special are the authentic sichuan cooking and being the only one in NYC that offers authentic chongqing hotpot.",
+        "term_list": {
+            "1423_0": {
+                "id": "1423_0",
+                "polarity": "positive",
+                "term": "sichuan cooking",
+                "from": 53,
+                "to": 68,
+                "opinion_words": [
+                    "authentic"
+                ],
+                "opinion_position": [
+                    [
+                        43,
+                        52
+                    ]
+                ]
+            },
+            "1423_1": {
+                "id": "1423_1",
+                "polarity": "positive",
+                "term": "chongqing hotpot",
+                "from": 121,
+                "to": 137,
+                "opinion_words": [
+                    "authentic"
+                ],
+                "opinion_position": [
+                    [
+                        111,
+                        120
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": true,
+        "id": "1423"
+    },
+    "562": {
+        "sentence": "Our tiny table for two (dinner plates hung over edge) was right in the middle of one of the lanes of waiter traffic.",
+        "term_list": {
+            "562_0": {
+                "id": "562_0",
+                "polarity": "negative",
+                "term": "table",
+                "from": 9,
+                "to": 14,
+                "opinion_words": [
+                    "tiny"
+                ],
+                "opinion_position": [
+                    [
+                        4,
+                        8
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": true,
+        "id": "562"
+    },
+    "3272": {
+        "sentence": "Sake collection was excellent (Try Nanbu Bijin), but pricey.",
+        "term_list": {
+            "3272_0": {
+                "id": "3272_0",
+                "polarity": "positive",
+                "term": "Nanbu Bijin",
+                "from": 35,
+                "to": 46,
+                "opinion_words": [
+                    "Try"
+                ],
+                "opinion_position": [
+                    [
+                        31,
+                        34
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": false,
+        "id": "3272"
+    },
+    "971": {
+        "sentence": "Interesting other dishes for a change include chicken in curry sauce and salmon caserole.",
+        "term_list": {
+            "971_0": {
+                "id": "971_0",
+                "polarity": "positive",
+                "term": "dishes",
+                "from": 18,
+                "to": 24,
+                "opinion_words": [
+                    "Interesting"
+                ],
+                "opinion_position": [
+                    [
+                        0,
+                        11
+                    ]
+                ]
+            },
+            "971_2": {
+                "id": "971_2",
+                "polarity": "positive",
+                "term": "chicken in curry sauce",
+                "from": 46,
+                "to": 68,
+                "opinion_words": [
+                    "Interesting"
+                ],
+                "opinion_position": [
+                    [
+                        0,
+                        11
+                    ]
+                ]
+            },
+            "971_1": {
+                "id": "971_1",
+                "polarity": "positive",
+                "term": "salmon caserole",
+                "from": 73,
+                "to": 88,
+                "opinion_words": [
+                    "Interesting"
+                ],
+                "opinion_position": [
+                    [
+                        0,
+                        11
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": true,
+        "id": "971"
+    },
+    "802": {
+        "sentence": "One of my favorites though was the Angry Lobster, a cold lobster salad that was magnificent.",
+        "term_list": {
+            "802_0": {
+                "id": "802_0",
+                "polarity": "positive",
+                "term": "Angry Lobster",
+                "from": 35,
+                "to": 48,
+                "opinion_words": [
+                    "favorites"
+                ],
+                "opinion_position": [
+                    [
+                        10,
+                        19
+                    ]
+                ]
+            },
+            "802_1": {
+                "id": "802_1",
+                "polarity": "positive",
+                "term": "cold lobster salad",
+                "from": 52,
+                "to": 70,
+                "opinion_words": [
+                    "magnificent"
+                ],
+                "opinion_position": [
+                    [
+                        80,
+                        91
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": true,
+        "id": "802"
+    },
+    "3103": {
+        "sentence": "Ask for Usha, the nicest bartender in manhattan.",
+        "term_list": {
+            "3103_0": {
+                "id": "3103_0",
+                "polarity": "positive",
+                "term": "bartender",
+                "from": 25,
+                "to": 34,
+                "opinion_words": [
+                    "nicest"
+                ],
+                "opinion_position": [
+                    [
+                        18,
+                        24
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": false,
+        "id": "3103"
+    },
+    "299": {
+        "sentence": "The service is outstanding and my crab-cake eggs benedict could not have been better.",
+        "term_list": {
+            "299_1": {
+                "id": "299_1",
+                "polarity": "positive",
+                "term": "service",
+                "from": 4,
+                "to": 11,
+                "opinion_words": [
+                    "outstanding"
+                ],
+                "opinion_position": [
+                    [
+                        15,
+                        26
+                    ]
+                ]
+            },
+            "299_0": {
+                "id": "299_0",
+                "polarity": "positive",
+                "term": "crab-cake eggs benedict",
+                "from": 34,
+                "to": 57,
+                "opinion_words": [
+                    "could not have been better"
+                ],
+                "opinion_position": [
+                    [
+                        58,
+                        84
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": true,
+        "id": "299"
+    },
+    "629": {
+        "sentence": "The place's decor and hidden bathrooms made for a good laugh.",
+        "term_list": {
+            "629_0": {
+                "id": "629_0",
+                "polarity": "positive",
+                "term": "decor",
+                "from": 12,
+                "to": 17,
+                "opinion_words": [
+                    "good laugh"
+                ],
+                "opinion_position": [
+                    [
+                        50,
+                        60
+                    ]
+                ]
+            },
+            "629_1": {
+                "id": "629_1",
+                "polarity": "positive",
+                "term": "bathrooms",
+                "from": 29,
+                "to": 38,
+                "opinion_words": [
+                    "good laugh"
+                ],
+                "opinion_position": [
+                    [
+                        50,
+                        60
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": true,
+        "id": "629"
+    },
+    "2243": {
+        "sentence": "Its location is good and the fact that Hutner College is near and their prices are very reasonable, makes students go back to Suan again and again.",
+        "term_list": {
+            "2243_1": {
+                "id": "2243_1",
+                "polarity": "positive",
+                "term": "location",
+                "from": 4,
+                "to": 12,
+                "opinion_words": [
+                    "good"
+                ],
+                "opinion_position": [
+                    [
+                        16,
+                        20
+                    ]
+                ]
+            },
+            "2243_0": {
+                "id": "2243_0",
+                "polarity": "positive",
+                "term": "prices",
+                "from": 72,
+                "to": 78,
+                "opinion_words": [
+                    "reasonable"
+                ],
+                "opinion_position": [
+                    [
+                        88,
+                        98
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": true,
+        "id": "2243"
+    },
+    "482": {
+        "sentence": "A wonderful place!",
+        "term_list": {
+            "482_0": {
+                "id": "482_0",
+                "polarity": "positive",
+                "term": "place",
+                "from": 12,
+                "to": 17,
+                "opinion_words": [
+                    "wonderful"
+                ],
+                "opinion_position": [
+                    [
+                        2,
+                        11
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": false,
+        "id": "482"
+    },
+    "2526": {
+        "sentence": "Deliveries often take up to an hour and the prices are higher than most other pizzerias in the area.",
+        "term_list": {
+            "2526_0": {
+                "id": "2526_0",
+                "polarity": "negative",
+                "term": "prices",
+                "from": 44,
+                "to": 50,
+                "opinion_words": [
+                    "higher"
+                ],
+                "opinion_position": [
+                    [
+                        55,
+                        61
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": true,
+        "id": "2526"
+    },
+    "2608": {
+        "sentence": "Kind of a small place but I guess if they are not too busy might be able to fit a group or kids.",
+        "term_list": {
+            "2608_0": {
+                "id": "2608_0",
+                "polarity": "negative",
+                "term": "place",
+                "from": 16,
+                "to": 21,
+                "opinion_words": [
+                    "small"
+                ],
+                "opinion_position": [
+                    [
+                        10,
+                        15
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": false,
+        "id": "2608"
+    },
+    "1539": {
+        "sentence": "We also ordered two hot dogs thinking they would be pretty good since there is a whole section on the menu devoted to them.",
+        "term_list": {
+            "1539_0": {
+                "id": "1539_0",
+                "polarity": "neutral",
+                "term": "hot dogs",
+                "from": 20,
+                "to": 28,
+                "opinion_words": [
+                    "good"
+                ],
+                "opinion_position": [
+                    [
+                        59,
+                        63
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": true,
+        "id": "1539"
+    },
+    "448": {
+        "sentence": "Because of the delicate thin crust, take-out pies get soggy in their boxes.",
+        "term_list": {
+            "448_0": {
+                "id": "448_0",
+                "polarity": "negative",
+                "term": "take-out pies",
+                "from": 36,
+                "to": 49,
+                "opinion_words": [
+                    "soggy"
+                ],
+                "opinion_position": [
+                    [
+                        54,
+                        59
+                    ]
+                ]
+            },
+            "448_1": {
+                "id": "448_1",
+                "polarity": "negative",
+                "term": "crust",
+                "from": 29,
+                "to": 34,
+                "opinion_words": [
+                    "delicate"
+                ],
+                "opinion_position": [
+                    [
+                        15,
+                        23
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": true,
+        "id": "448"
+    },
+    "137": {
+        "sentence": "This place is always very crowded and popular.",
+        "term_list": {
+            "137_0": {
+                "id": "137_0",
+                "polarity": "positive",
+                "term": "place",
+                "from": 5,
+                "to": 10,
+                "opinion_words": [
+                    "crowded",
+                    "popular"
+                ],
+                "opinion_position": [
+                    [
+                        26,
+                        33
+                    ],
+                    [
+                        38,
+                        45
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": false,
+        "id": "137"
+    },
+    "1430": {
+        "sentence": "If you like the food and the value you get from some of Chinatown restaurants, this is not the place for you.",
+        "term_list": {
+            "1430_0": {
+                "id": "1430_0",
+                "polarity": "neutral",
+                "term": "food",
+                "from": 16,
+                "to": 20,
+                "opinion_words": [
+                    "like"
+                ],
+                "opinion_position": [
+                    [
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "1430_1": {
+                "id": "1430_1",
+                "polarity": "neutral",
+                "term": "value",
+                "from": 29,
+                "to": 34,
+                "opinion_words": [
+                    "like"
+                ],
+                "opinion_position": [
+                    [
+                        7,
+                        11
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": true,
+        "id": "1430"
+    },
+    "2325": {
+        "sentence": "The selection changes frequently but the basic dishes are always available.",
+        "term_list": {
+            "2325_1": {
+                "id": "2325_1",
+                "polarity": "neutral",
+                "term": "selection",
+                "from": 4,
+                "to": 13,
+                "opinion_words": [
+                    "changes frequently"
+                ],
+                "opinion_position": [
+                    [
+                        14,
+                        32
+                    ]
+                ]
+            },
+            "2325_0": {
+                "id": "2325_0",
+                "polarity": "neutral",
+                "term": "basic dishes",
+                "from": 41,
+                "to": 53,
+                "opinion_words": [
+                    "available"
+                ],
+                "opinion_position": [
+                    [
+                        65,
+                        74
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": true,
+        "id": "2325"
+    },
+    "2403": {
+        "sentence": "I have to say that if this what makes it easier to get a saet a lunch -- I dont mind.",
+        "term_list": {
+            "2403_0": {
+                "id": "2403_0",
+                "polarity": "neutral",
+                "term": "lunch",
+                "from": 64,
+                "to": 69,
+                "opinion_words": [
+                    "easier"
+                ],
+                "opinion_position": [
+                    [
+                        41,
+                        47
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": false,
+        "id": "2403"
+    },
+    "564": {
+        "sentence": "We were told that they were booked solid and no other table was available.",
+        "term_list": {
+            "564_0": {
+                "id": "564_0",
+                "polarity": "negative",
+                "term": "table",
+                "from": 54,
+                "to": 59,
+                "opinion_words": [
+                    "available"
+                ],
+                "opinion_position": [
+                    [
+                        64,
+                        73
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": false,
+        "id": "564"
+    },
+    "1908": {
+        "sentence": "The restaraurant is very small so reservations are a must.",
+        "term_list": {
+            "1908_0": {
+                "id": "1908_0",
+                "polarity": "neutral",
+                "term": "reservations",
+                "from": 34,
+                "to": 46,
+                "opinion_words": [
+                    "must"
+                ],
+                "opinion_position": [
+                    [
+                        53,
+                        57
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": false,
+        "id": "1908"
+    },
+    "2553": {
+        "sentence": "After dealing with subpar pizza all over the Kensington neighborhood - I've found little toninos.",
+        "term_list": {
+            "2553_0": {
+                "id": "2553_0",
+                "polarity": "negative",
+                "term": "pizza",
+                "from": 26,
+                "to": 31,
+                "opinion_words": [
+                    "subpar"
+                ],
+                "opinion_position": [
+                    [
+                        19,
+                        25
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": false,
+        "id": "2553"
+    },
+    "2378": {
+        "sentence": "The service was typical short-order, dinner type.",
+        "term_list": {
+            "2378_0": {
+                "id": "2378_0",
+                "polarity": "neutral",
+                "term": "service",
+                "from": 4,
+                "to": 11,
+                "opinion_words": [
+                    "typical"
+                ],
+                "opinion_position": [
+                    [
+                        16,
+                        23
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": false,
+        "id": "2378"
+    },
+    "671": {
+        "sentence": "Each table has a pot of boiling water sunken into its surface, and you get platters of thin sliced meats, various vegetables, and rice and glass noodles.",
+        "term_list": {
+            "671_2": {
+                "id": "671_2",
+                "polarity": "neutral",
+                "term": "meats",
+                "from": 99,
+                "to": 104,
+                "opinion_words": [
+                    "thin"
+                ],
+                "opinion_position": [
+                    [
+                        87,
+                        91
+                    ]
+                ]
+            },
+            "671_4": {
+                "id": "671_4",
+                "polarity": "neutral",
+                "term": "vegetables",
+                "from": 114,
+                "to": 124,
+                "opinion_words": [
+                    "various"
+                ],
+                "opinion_position": [
+                    [
+                        106,
+                        113
+                    ]
+                ]
+            }
+        },
+        "contra": false,
+        "multi": true,
+        "id": "671"
+    }
+}

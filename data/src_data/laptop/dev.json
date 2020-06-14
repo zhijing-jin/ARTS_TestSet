@@ -1,0 +1,1502 @@
+{
+    "1018_0": {
+        "contra": false,
+        "from": 84,
+        "id": "1018_0",
+        "multi": false,
+        "polarity": "positive",
+        "sentence": "I had in the past a Dell laptop and they sent me the items it needed or they sent a repair technician to my house to fix it.",
+        "term": "repair technician",
+        "to": 101
+    },
+    "1021_0": {
+        "contra": false,
+        "from": 82,
+        "id": "1021_0",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "This computer that I have has had issues with the keyboard where it lost half the keyboard functions.",
+        "term": "keyboard functions",
+        "to": 100
+    },
+    "1021_1": {
+        "contra": false,
+        "from": 50,
+        "id": "1021_1",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "This computer that I have has had issues with the keyboard where it lost half the keyboard functions.",
+        "term": "keyboard",
+        "to": 58
+    },
+    "1038_0": {
+        "contra": true,
+        "from": 37,
+        "id": "1038_0",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "Looks nice, but has a horribly cheap feel.",
+        "term": "feel",
+        "to": 41
+    },
+    "1038_1": {
+        "contra": true,
+        "from": 0,
+        "id": "1038_1",
+        "multi": true,
+        "polarity": "positive",
+        "sentence": "Looks nice, but has a horribly cheap feel.",
+        "term": "Looks",
+        "to": 5
+    },
+    "1039_0": {
+        "contra": false,
+        "from": 0,
+        "id": "1039_0",
+        "multi": false,
+        "polarity": "negative",
+        "sentence": "Keyboard is plastic and spongey feeling.",
+        "term": "Keyboard",
+        "to": 8
+    },
+    "1049_0": {
+        "contra": false,
+        "from": 20,
+        "id": "1049_0",
+        "multi": false,
+        "polarity": "negative",
+        "sentence": "Can't close the 2nd HDD bay since there are brackets you have to break off (even then, it still doesn't shut) That could be a major flaw for the dual HDD user.",
+        "term": "HDD bay",
+        "to": 27
+    },
+    "1078_0": {
+        "contra": false,
+        "from": 4,
+        "id": "1078_0",
+        "multi": false,
+        "polarity": "positive",
+        "sentence": "The screen is nice, side view angles are pretty good.",
+        "term": "screen",
+        "to": 10
+    },
+    "1101_0": {
+        "contra": true,
+        "from": 39,
+        "id": "1101_0",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "Strengths:Well-shaped Weaknesses:A bad videocard!",
+        "term": "videocard",
+        "to": 48
+    },
+    "1101_1": {
+        "contra": true,
+        "from": 15,
+        "id": "1101_1",
+        "multi": true,
+        "polarity": "positive",
+        "sentence": "Strengths:Well-shaped Weaknesses:A bad videocard!",
+        "term": "shaped",
+        "to": 21
+    },
+    "1113_0": {
+        "contra": false,
+        "from": 9,
+        "id": "1113_0",
+        "multi": false,
+        "polarity": "negative",
+        "sentence": "Not even safe mode boots.",
+        "term": "safe mode",
+        "to": 18
+    },
+    "112_0": {
+        "contra": false,
+        "from": 4,
+        "id": "112_0",
+        "multi": false,
+        "polarity": "negative",
+        "sentence": "The screen gets smeary and dusty very quickly and it's very noticeable.",
+        "term": "screen",
+        "to": 10
+    },
+    "1131_0": {
+        "contra": false,
+        "from": 30,
+        "id": "1131_0",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "Then after 4 or so months the charger stopped working so I was forced to go out and buy new hardware just to keep this computer running.",
+        "term": "charger",
+        "to": 37
+    },
+    "1131_1": {
+        "contra": false,
+        "from": 92,
+        "id": "1131_1",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "Then after 4 or so months the charger stopped working so I was forced to go out and buy new hardware just to keep this computer running.",
+        "term": "hardware",
+        "to": 100
+    },
+    "115_0": {
+        "contra": false,
+        "from": 4,
+        "id": "115_0",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "The battery life, before the battery completely died of course, left much to be desired.",
+        "term": "battery life",
+        "to": 16
+    },
+    "115_1": {
+        "contra": false,
+        "from": 29,
+        "id": "115_1",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "The battery life, before the battery completely died of course, left much to be desired.",
+        "term": "battery",
+        "to": 36
+    },
+    "1175_0": {
+        "contra": false,
+        "from": 35,
+        "id": "1175_0",
+        "multi": false,
+        "polarity": "positive",
+        "sentence": "The laptop is relatively simple to use, though I bought  Macs for Dummies,  which is well worth $2",
+        "term": "use",
+        "to": 38
+    },
+    "1255_0": {
+        "contra": false,
+        "from": 49,
+        "id": "1255_0",
+        "multi": false,
+        "polarity": "neutral",
+        "sentence": "I should have checked this before I installed my applications.",
+        "term": "applications",
+        "to": 61
+    },
+    "1258_0": {
+        "contra": false,
+        "from": 68,
+        "id": "1258_0",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "It seemed to be a very nice laptop except I was not able to load my Garmin GPS software or Microsoft Office 2003.",
+        "term": "Garmin GPS software",
+        "to": 87
+    },
+    "1258_1": {
+        "contra": false,
+        "from": 91,
+        "id": "1258_1",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "It seemed to be a very nice laptop except I was not able to load my Garmin GPS software or Microsoft Office 2003.",
+        "term": "Microsoft Office 2003",
+        "to": 112
+    },
+    "1284_0": {
+        "contra": false,
+        "from": 48,
+        "id": "1284_0",
+        "multi": false,
+        "polarity": "negative",
+        "sentence": "Thus, when you carry it at a slanted angle, the screen will \"topple\" or \"slide\" down, if you understand what I mean.",
+        "term": "screen",
+        "to": 54
+    },
+    "1295_0": {
+        "contra": false,
+        "from": 12,
+        "id": "1295_0",
+        "multi": false,
+        "polarity": "negative",
+        "sentence": "As usual at customer service center, she asked me to hold for a moment while she went to the back-office and compare it with other same model netbooks and discussed it with her colleague (I could see them).",
+        "term": "customer service center",
+        "to": 35
+    },
+    "1309_0": {
+        "contra": true,
+        "from": 44,
+        "id": "1309_0",
+        "multi": true,
+        "polarity": "neutral",
+        "sentence": "Because he said that the hinge is under the motherboard and they have to dismantle the whole thing before it can be tightened.",
+        "term": "motherboard",
+        "to": 55
+    },
+    "1309_1": {
+        "contra": true,
+        "from": 25,
+        "id": "1309_1",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "Because he said that the hinge is under the motherboard and they have to dismantle the whole thing before it can be tightened.",
+        "term": "hinge",
+        "to": 30
+    },
+    "1407_0": {
+        "contra": false,
+        "from": 43,
+        "id": "1407_0",
+        "multi": false,
+        "polarity": "negative",
+        "sentence": "My computer froze on several occasion, had buttons that randomely would fall off and even had moments when the computer would refuse to turn on at all.",
+        "term": "buttons",
+        "to": 50
+    },
+    "1415_0": {
+        "contra": false,
+        "from": 111,
+        "id": "1415_0",
+        "multi": false,
+        "polarity": "neutral",
+        "sentence": "In all honesty, if someone is looking for a quality laptop and willing to pay a little more money for a normal sized laptop than a cheaper and less impressive laptop, then do not buy this computer.",
+        "term": "sized",
+        "to": 116
+    },
+    "141_0": {
+        "contra": true,
+        "from": 48,
+        "id": "141_0",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "Called Acer many times, they want me to pay the shipping to ship it to their repair center - I was very disappointed since it is a brand new computer!",
+        "term": "shipping",
+        "to": 56
+    },
+    "141_1": {
+        "contra": true,
+        "from": 77,
+        "id": "141_1",
+        "multi": true,
+        "polarity": "neutral",
+        "sentence": "Called Acer many times, they want me to pay the shipping to ship it to their repair center - I was very disappointed since it is a brand new computer!",
+        "term": "repair center",
+        "to": 90
+    },
+    "1472_0": {
+        "contra": false,
+        "from": 35,
+        "id": "1472_0",
+        "multi": false,
+        "polarity": "negative",
+        "sentence": "Not to mention sometimes the whole charger unit will decide not to work entirely.",
+        "term": "charger unit",
+        "to": 47
+    },
+    "1485_0": {
+        "contra": false,
+        "from": 107,
+        "id": "1485_0",
+        "multi": true,
+        "polarity": "positive",
+        "sentence": "This purchase opened me to the world of Macbooks, and I am impressed with the intuition of the design, the beauty of the product, and the excellent technological advances associated with it.",
+        "term": "beauty",
+        "to": 113
+    },
+    "1485_1": {
+        "contra": false,
+        "from": 95,
+        "id": "1485_1",
+        "multi": true,
+        "polarity": "positive",
+        "sentence": "This purchase opened me to the world of Macbooks, and I am impressed with the intuition of the design, the beauty of the product, and the excellent technological advances associated with it.",
+        "term": "design",
+        "to": 101
+    },
+    "1492_0": {
+        "contra": false,
+        "from": 18,
+        "id": "1492_0",
+        "multi": true,
+        "polarity": "positive",
+        "sentence": "The fact that the screen reacts to the lighting around you is an added luxury-when you are working around others in dark areas and want privacy or don't want to bother them with bright lighting, it is very convenient to have a darker, softer lit screen.",
+        "term": "screen",
+        "to": 24
+    },
+    "1492_1": {
+        "contra": false,
+        "from": 246,
+        "id": "1492_1",
+        "multi": true,
+        "polarity": "positive",
+        "sentence": "The fact that the screen reacts to the lighting around you is an added luxury-when you are working around others in dark areas and want privacy or don't want to bother them with bright lighting, it is very convenient to have a darker, softer lit screen.",
+        "term": "screen",
+        "to": 252
+    },
+    "152_0": {
+        "contra": false,
+        "from": 4,
+        "id": "152_0",
+        "multi": false,
+        "polarity": "positive",
+        "sentence": "The touch pad is among the best.",
+        "term": "touch pad",
+        "to": 13
+    },
+    "153_0": {
+        "contra": false,
+        "from": 4,
+        "id": "153_0",
+        "multi": false,
+        "polarity": "positive",
+        "sentence": "The screen is huge and coloful, but no LED backlighting.",
+        "term": "screen",
+        "to": 10
+    },
+    "1552_0": {
+        "contra": false,
+        "from": 24,
+        "id": "1552_0",
+        "multi": false,
+        "polarity": "positive",
+        "sentence": "Was very much worth the price i paid.",
+        "term": "price",
+        "to": 29
+    },
+    "1582_0": {
+        "contra": false,
+        "from": 48,
+        "id": "1582_0",
+        "multi": true,
+        "polarity": "positive",
+        "sentence": "Crisp screen, great battery life, and plenty of storage.",
+        "term": "storage",
+        "to": 55
+    },
+    "1582_1": {
+        "contra": false,
+        "from": 6,
+        "id": "1582_1",
+        "multi": true,
+        "polarity": "positive",
+        "sentence": "Crisp screen, great battery life, and plenty of storage.",
+        "term": "screen",
+        "to": 12
+    },
+    "1582_2": {
+        "contra": false,
+        "from": 20,
+        "id": "1582_2",
+        "multi": true,
+        "polarity": "positive",
+        "sentence": "Crisp screen, great battery life, and plenty of storage.",
+        "term": "battery life",
+        "to": 32
+    },
+    "1600_0": {
+        "contra": true,
+        "from": 113,
+        "id": "1600_0",
+        "multi": true,
+        "polarity": "positive",
+        "sentence": "Also, one of the users mentioned how the edges on the macbook is sharp, if you have money to spend on one of the incase shells, it doesn't seem to be a problem.",
+        "term": "incase shells",
+        "to": 126
+    },
+    "1600_1": {
+        "contra": true,
+        "from": 41,
+        "id": "1600_1",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "Also, one of the users mentioned how the edges on the macbook is sharp, if you have money to spend on one of the incase shells, it doesn't seem to be a problem.",
+        "term": "edges",
+        "to": 46
+    },
+    "1606_0": {
+        "contra": false,
+        "from": 29,
+        "id": "1606_0",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "I also did not like the loud noises it made or how the bottom of the computer would get really hot.",
+        "term": "noises",
+        "to": 35
+    },
+    "1606_1": {
+        "contra": false,
+        "from": 55,
+        "id": "1606_1",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "I also did not like the loud noises it made or how the bottom of the computer would get really hot.",
+        "term": "bottom of the computer",
+        "to": 77
+    },
+    "1689_0": {
+        "contra": false,
+        "from": 73,
+        "id": "1689_0",
+        "multi": false,
+        "polarity": "positive",
+        "sentence": "It is good to know that I can mobilize without having to worry about the battery life.",
+        "term": "battery life",
+        "to": 85
+    },
+    "1701_0": {
+        "contra": false,
+        "from": 11,
+        "id": "1701_0",
+        "multi": false,
+        "polarity": "positive",
+        "sentence": "Comes with iMovie;",
+        "term": "iMovie",
+        "to": 17
+    },
+    "1707_0": {
+        "contra": true,
+        "from": 39,
+        "id": "1707_0",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "I love this program, it is superior to windows movie maker.",
+        "term": "windows movie maker",
+        "to": 58
+    },
+    "1707_1": {
+        "contra": true,
+        "from": 12,
+        "id": "1707_1",
+        "multi": true,
+        "polarity": "positive",
+        "sentence": "I love this program, it is superior to windows movie maker.",
+        "term": "program",
+        "to": 19
+    },
+    "1765_0": {
+        "contra": false,
+        "from": 35,
+        "id": "1765_0",
+        "multi": true,
+        "polarity": "positive",
+        "sentence": "It has a lot of memory and a great battery life.",
+        "term": "battery life",
+        "to": 47
+    },
+    "1765_1": {
+        "contra": false,
+        "from": 16,
+        "id": "1765_1",
+        "multi": true,
+        "polarity": "positive",
+        "sentence": "It has a lot of memory and a great battery life.",
+        "term": "memory",
+        "to": 22
+    },
+    "1771_1": {
+        "contra": true,
+        "from": 14,
+        "id": "1771_1",
+        "multi": true,
+        "polarity": "positive",
+        "sentence": "It is easy to navigate and update programs.",
+        "term": "navigate",
+        "to": 22
+    },
+    "1797_0": {
+        "contra": false,
+        "from": 13,
+        "id": "1797_0",
+        "multi": false,
+        "polarity": "neutral",
+        "sentence": "It's now all commodity hardware.",
+        "term": "commodity hardware",
+        "to": 31
+    },
+    "1845_0": {
+        "contra": false,
+        "from": 89,
+        "id": "1845_0",
+        "multi": false,
+        "polarity": "negative",
+        "sentence": "\u00a0 even though I had the receipt in front of me proving it still had 2 months left on the warranty.",
+        "term": "warranty",
+        "to": 97
+    },
+    "1878_0": {
+        "contra": false,
+        "from": 87,
+        "id": "1878_0",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "1.You can not change your desktop background (window's 7 starter does NOT support that function).",
+        "term": "function",
+        "to": 95
+    },
+    "1878_1": {
+        "contra": false,
+        "from": 26,
+        "id": "1878_1",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "1.You can not change your desktop background (window's 7 starter does NOT support that function).",
+        "term": "desktop background",
+        "to": 44
+    },
+    "1878_2": {
+        "contra": false,
+        "from": 45,
+        "id": "1878_2",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "1.You can not change your desktop background (window's 7 starter does NOT support that function).",
+        "term": "window's 7 starter",
+        "to": 63
+    },
+    "1948_0": {
+        "contra": false,
+        "from": 21,
+        "id": "1948_0",
+        "multi": false,
+        "polarity": "negative",
+        "sentence": "You can't even get a satellite card which is why I bought to begin with.",
+        "term": "satellite card",
+        "to": 35
+    },
+    "1959_0": {
+        "contra": false,
+        "from": 4,
+        "id": "1959_0",
+        "multi": false,
+        "polarity": "positive",
+        "sentence": "The feel of this is better than the Toshiba, too.",
+        "term": "feel",
+        "to": 8
+    },
+    "1960_0": {
+        "contra": false,
+        "from": 102,
+        "id": "1960_0",
+        "multi": false,
+        "polarity": "positive",
+        "sentence": "All in all, a very disappointing experience except that I learned how good the Geek Squad is and also Customer Service.",
+        "term": "Customer Service",
+        "to": 118
+    },
+    "1964_0": {
+        "contra": false,
+        "from": 36,
+        "id": "1964_0",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "This computer was so challenging to carry and handle.",
+        "term": "carry",
+        "to": 41
+    },
+    "1964_1": {
+        "contra": false,
+        "from": 46,
+        "id": "1964_1",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "This computer was so challenging to carry and handle.",
+        "term": "handle",
+        "to": 52
+    },
+    "1966_0": {
+        "contra": false,
+        "from": 24,
+        "id": "1966_0",
+        "multi": false,
+        "polarity": "negative",
+        "sentence": "It did not have all the features I expected it to have.",
+        "term": "features",
+        "to": 32
+    },
+    "1992_0": {
+        "contra": false,
+        "from": 111,
+        "id": "1992_0",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "Anyway, in early July of this year, the DVD burner stopped working, and the computer stared having issues with power supply.",
+        "term": "power supply",
+        "to": 123
+    },
+    "1992_1": {
+        "contra": false,
+        "from": 40,
+        "id": "1992_1",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "Anyway, in early July of this year, the DVD burner stopped working, and the computer stared having issues with power supply.",
+        "term": "DVD burner",
+        "to": 50
+    },
+    "1996_0": {
+        "contra": false,
+        "from": 28,
+        "id": "1996_0",
+        "multi": false,
+        "polarity": "neutral",
+        "sentence": "I am not sure if it was the drive itself, however;",
+        "term": "drive",
+        "to": 33
+    },
+    "2106_0": {
+        "contra": false,
+        "from": 43,
+        "id": "2106_0",
+        "multi": true,
+        "polarity": "positive",
+        "sentence": "It had most of the features and all of the power that I wanted to replace my desktop machine.",
+        "term": "power",
+        "to": 48
+    },
+    "2106_1": {
+        "contra": false,
+        "from": 19,
+        "id": "2106_1",
+        "multi": true,
+        "polarity": "positive",
+        "sentence": "It had most of the features and all of the power that I wanted to replace my desktop machine.",
+        "term": "features",
+        "to": 27
+    },
+    "2112_0": {
+        "contra": false,
+        "from": 12,
+        "id": "2112_0",
+        "multi": false,
+        "polarity": "neutral",
+        "sentence": "Even out of warranty!",
+        "term": "warranty",
+        "to": 20
+    },
+    "2140_0": {
+        "contra": false,
+        "from": 4,
+        "id": "2140_0",
+        "multi": false,
+        "polarity": "positive",
+        "sentence": "All apple associates are always wiling to help you out with anything, no matter when you purchased the computer and how many years passed.",
+        "term": "apple associates",
+        "to": 20
+    },
+    "2168_0": {
+        "contra": false,
+        "from": 11,
+        "id": "2168_0",
+        "multi": false,
+        "polarity": "positive",
+        "sentence": "There is a backlit keyboard which is perfect for typing in the dark.",
+        "term": "backlit keyboard",
+        "to": 27
+    },
+    "2196_0": {
+        "contra": false,
+        "from": 4,
+        "id": "2196_0",
+        "multi": false,
+        "polarity": "positive",
+        "sentence": "The powerpoint opened seamlessly in the apple and the mac hooked up to the projector so easily it was almost scary.",
+        "term": "powerpoint",
+        "to": 14
+    },
+    "2223_0": {
+        "contra": false,
+        "from": 42,
+        "id": "2223_0",
+        "multi": false,
+        "polarity": "negative",
+        "sentence": "The only drawback for me is how dirty the screen gets, and rather quickly too.",
+        "term": "screen",
+        "to": 48
+    },
+    "2258_0": {
+        "contra": true,
+        "from": 55,
+        "id": "2258_0",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": ", Applications respond immediately (not like the tired MS applications).",
+        "term": "MS applications",
+        "to": 70
+    },
+    "2258_1": {
+        "contra": true,
+        "from": 2,
+        "id": "2258_1",
+        "multi": true,
+        "polarity": "positive",
+        "sentence": ", Applications respond immediately (not like the tired MS applications).",
+        "term": "Applications",
+        "to": 14
+    },
+    "2272_0": {
+        "contra": false,
+        "from": 12,
+        "id": "2272_0",
+        "multi": true,
+        "polarity": "neutral",
+        "sentence": "We also use Paralles so we can run virtual machines of Windows XP Professional, Windows 7 Home Premium, Windows Server Enterprise 2003, and Windows Server 2008 Enterprise.",
+        "term": "Paralles",
+        "to": 20
+    },
+    "2272_1": {
+        "contra": false,
+        "from": 55,
+        "id": "2272_1",
+        "multi": true,
+        "polarity": "neutral",
+        "sentence": "We also use Paralles so we can run virtual machines of Windows XP Professional, Windows 7 Home Premium, Windows Server Enterprise 2003, and Windows Server 2008 Enterprise.",
+        "term": "Windows XP Professional",
+        "to": 78
+    },
+    "2272_2": {
+        "contra": false,
+        "from": 80,
+        "id": "2272_2",
+        "multi": true,
+        "polarity": "neutral",
+        "sentence": "We also use Paralles so we can run virtual machines of Windows XP Professional, Windows 7 Home Premium, Windows Server Enterprise 2003, and Windows Server 2008 Enterprise.",
+        "term": "Windows 7 Home Premium",
+        "to": 102
+    },
+    "2272_3": {
+        "contra": false,
+        "from": 140,
+        "id": "2272_3",
+        "multi": true,
+        "polarity": "neutral",
+        "sentence": "We also use Paralles so we can run virtual machines of Windows XP Professional, Windows 7 Home Premium, Windows Server Enterprise 2003, and Windows Server 2008 Enterprise.",
+        "term": "Windows Server 2008 Enterprise",
+        "to": 170
+    },
+    "2272_4": {
+        "contra": false,
+        "from": 104,
+        "id": "2272_4",
+        "multi": true,
+        "polarity": "neutral",
+        "sentence": "We also use Paralles so we can run virtual machines of Windows XP Professional, Windows 7 Home Premium, Windows Server Enterprise 2003, and Windows Server 2008 Enterprise.",
+        "term": "Windows Server Enterprise 2003",
+        "to": 134
+    },
+    "2299_0": {
+        "contra": false,
+        "from": 87,
+        "id": "2299_0",
+        "multi": false,
+        "polarity": "positive",
+        "sentence": "You can do it all on this bad boy but the main thing this netbook was desinged for was surfing the web and boy o boy does it ever.",
+        "term": "surfing the web",
+        "to": 102
+    },
+    "2318_0": {
+        "contra": false,
+        "from": 10,
+        "id": "2318_0",
+        "multi": false,
+        "polarity": "positive",
+        "sentence": "Wonderful zooming.",
+        "term": "zooming",
+        "to": 17
+    },
+    "2332_0": {
+        "contra": false,
+        "from": 13,
+        "id": "2332_0",
+        "multi": false,
+        "polarity": "positive",
+        "sentence": "It is a REAL touchpad, not the toy I saw in other brands.",
+        "term": "touchpad",
+        "to": 21
+    },
+    "2380_0": {
+        "contra": false,
+        "from": 53,
+        "id": "2380_0",
+        "multi": true,
+        "polarity": "positive",
+        "sentence": "previous laptops were pc's, still have them, but the mac osx is a clean and smooth operating system.",
+        "term": "mac osx",
+        "to": 60
+    },
+    "2380_1": {
+        "contra": false,
+        "from": 83,
+        "id": "2380_1",
+        "multi": true,
+        "polarity": "positive",
+        "sentence": "previous laptops were pc's, still have them, but the mac osx is a clean and smooth operating system.",
+        "term": "operating system",
+        "to": 99
+    },
+    "23_0": {
+        "contra": false,
+        "from": 112,
+        "id": "23_0",
+        "multi": true,
+        "polarity": "positive",
+        "sentence": "The laptop is very lightweight, can easily carry around in a knapsack full of text books and it barely adds any weight.",
+        "term": "weight",
+        "to": 118
+    },
+    "23_1": {
+        "contra": false,
+        "from": 43,
+        "id": "23_1",
+        "multi": true,
+        "polarity": "positive",
+        "sentence": "The laptop is very lightweight, can easily carry around in a knapsack full of text books and it barely adds any weight.",
+        "term": "carry",
+        "to": 48
+    },
+    "2424_0": {
+        "contra": false,
+        "from": 45,
+        "id": "2424_0",
+        "multi": false,
+        "polarity": "neutral",
+        "sentence": "It is much faster than my desktop which is a Core2 Quad running at 2.83 GHz.",
+        "term": "Core2 Quad",
+        "to": 55
+    },
+    "2430_0": {
+        "contra": false,
+        "from": 27,
+        "id": "2430_0",
+        "multi": false,
+        "polarity": "negative",
+        "sentence": "Had some trouble finding a case that it would fit in.",
+        "term": "case",
+        "to": 31
+    },
+    "2431_0": {
+        "contra": false,
+        "from": 23,
+        "id": "2431_0",
+        "multi": false,
+        "polarity": "negative",
+        "sentence": "This is an over-sized, 18-inch laptop.",
+        "term": "18-inch",
+        "to": 30
+    },
+    "2479_0": {
+        "contra": true,
+        "from": 30,
+        "id": "2479_0",
+        "multi": true,
+        "polarity": "positive",
+        "sentence": "It is a much more streamlined system for adding programs, using the internet, and doing other things everyone does on a computer.",
+        "term": "system",
+        "to": 36
+    },
+    "2479_1": {
+        "contra": true,
+        "from": 48,
+        "id": "2479_1",
+        "multi": true,
+        "polarity": "neutral",
+        "sentence": "It is a much more streamlined system for adding programs, using the internet, and doing other things everyone does on a computer.",
+        "term": "programs",
+        "to": 56
+    },
+    "2479_2": {
+        "contra": true,
+        "from": 58,
+        "id": "2479_2",
+        "multi": true,
+        "polarity": "neutral",
+        "sentence": "It is a much more streamlined system for adding programs, using the internet, and doing other things everyone does on a computer.",
+        "term": "using the internet",
+        "to": 76
+    },
+    "2553_0": {
+        "contra": false,
+        "from": 72,
+        "id": "2553_0",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "He has replaced his hard drive twice and (of course) has had to pay for antivirus software every year.",
+        "term": "antivirus software",
+        "to": 90
+    },
+    "2553_1": {
+        "contra": false,
+        "from": 20,
+        "id": "2553_1",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "He has replaced his hard drive twice and (of course) has had to pay for antivirus software every year.",
+        "term": "hard drive",
+        "to": 30
+    },
+    "2561_0": {
+        "contra": false,
+        "from": 7,
+        "id": "2561_0",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "I wish iWork or MS Office came with the Mac, but MS Office doesn't even come with most pc laptops.",
+        "term": "iWork",
+        "to": 12
+    },
+    "2561_1": {
+        "contra": false,
+        "from": 49,
+        "id": "2561_1",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "I wish iWork or MS Office came with the Mac, but MS Office doesn't even come with most pc laptops.",
+        "term": "MS Office",
+        "to": 58
+    },
+    "2561_2": {
+        "contra": false,
+        "from": 16,
+        "id": "2561_2",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "I wish iWork or MS Office came with the Mac, but MS Office doesn't even come with most pc laptops.",
+        "term": "MS Office",
+        "to": 25
+    },
+    "2573_0": {
+        "contra": true,
+        "from": 44,
+        "id": "2573_0",
+        "multi": true,
+        "polarity": "neutral",
+        "sentence": "I upgraded the memory and replaced the base Windows 7 Starter to Win 7 Home, and it runs just fine.",
+        "term": "Windows 7 Starter",
+        "to": 61
+    },
+    "2573_1": {
+        "contra": true,
+        "from": 15,
+        "id": "2573_1",
+        "multi": true,
+        "polarity": "neutral",
+        "sentence": "I upgraded the memory and replaced the base Windows 7 Starter to Win 7 Home, and it runs just fine.",
+        "term": "memory",
+        "to": 21
+    },
+    "2573_2": {
+        "contra": true,
+        "from": 65,
+        "id": "2573_2",
+        "multi": true,
+        "polarity": "neutral",
+        "sentence": "I upgraded the memory and replaced the base Windows 7 Starter to Win 7 Home, and it runs just fine.",
+        "term": "Win 7 Home",
+        "to": 75
+    },
+    "2573_3": {
+        "contra": true,
+        "from": 84,
+        "id": "2573_3",
+        "multi": true,
+        "polarity": "positive",
+        "sentence": "I upgraded the memory and replaced the base Windows 7 Starter to Win 7 Home, and it runs just fine.",
+        "term": "runs",
+        "to": 88
+    },
+    "2595_0": {
+        "contra": false,
+        "from": 0,
+        "id": "2595_0",
+        "multi": false,
+        "polarity": "positive",
+        "sentence": "Keyboard was also very nice and had a solid feel.",
+        "term": "Keyboard",
+        "to": 8
+    },
+    "265_0": {
+        "contra": false,
+        "from": 3,
+        "id": "265_0",
+        "multi": false,
+        "polarity": "negative",
+        "sentence": "No tutorials on the display.",
+        "term": "tutorials",
+        "to": 12
+    },
+    "2672_0": {
+        "contra": false,
+        "from": 4,
+        "id": "2672_0",
+        "multi": false,
+        "polarity": "positive",
+        "sentence": "The price is great for this model, I only plan on using it for media in the entertainment room.",
+        "term": "price",
+        "to": 9
+    },
+    "2711_0": {
+        "contra": true,
+        "from": 67,
+        "id": "2711_0",
+        "multi": true,
+        "polarity": "positive",
+        "sentence": "Seems to slow down occassionally but can run many applications (ie Internet tabs, programs, etc) simultaneously.",
+        "term": "Internet tabs",
+        "to": 80
+    },
+    "2711_1": {
+        "contra": true,
+        "from": 82,
+        "id": "2711_1",
+        "multi": true,
+        "polarity": "neutral",
+        "sentence": "Seems to slow down occassionally but can run many applications (ie Internet tabs, programs, etc) simultaneously.",
+        "term": "programs",
+        "to": 90
+    },
+    "2711_2": {
+        "contra": true,
+        "from": 50,
+        "id": "2711_2",
+        "multi": true,
+        "polarity": "positive",
+        "sentence": "Seems to slow down occassionally but can run many applications (ie Internet tabs, programs, etc) simultaneously.",
+        "term": "applications",
+        "to": 62
+    },
+    "2728_0": {
+        "contra": false,
+        "from": 10,
+        "id": "2728_0",
+        "multi": false,
+        "polarity": "negative",
+        "sentence": "defective software.",
+        "term": "software",
+        "to": 18
+    },
+    "2808_0": {
+        "contra": false,
+        "from": 0,
+        "id": "2808_0",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "Cords coming out the right for power plus cords coming out front for headphones/mic plus network connection on left make for a very messy setup with cords going every direction.",
+        "term": "Cords",
+        "to": 5
+    },
+    "2808_1": {
+        "contra": false,
+        "from": 69,
+        "id": "2808_1",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "Cords coming out the right for power plus cords coming out front for headphones/mic plus network connection on left make for a very messy setup with cords going every direction.",
+        "term": "headphones",
+        "to": 79
+    },
+    "2808_2": {
+        "contra": false,
+        "from": 89,
+        "id": "2808_2",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "Cords coming out the right for power plus cords coming out front for headphones/mic plus network connection on left make for a very messy setup with cords going every direction.",
+        "term": "network connection",
+        "to": 107
+    },
+    "2808_3": {
+        "contra": false,
+        "from": 80,
+        "id": "2808_3",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "Cords coming out the right for power plus cords coming out front for headphones/mic plus network connection on left make for a very messy setup with cords going every direction.",
+        "term": "mic",
+        "to": 83
+    },
+    "2808_4": {
+        "contra": false,
+        "from": 149,
+        "id": "2808_4",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "Cords coming out the right for power plus cords coming out front for headphones/mic plus network connection on left make for a very messy setup with cords going every direction.",
+        "term": "cords",
+        "to": 154
+    },
+    "2808_5": {
+        "contra": false,
+        "from": 42,
+        "id": "2808_5",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "Cords coming out the right for power plus cords coming out front for headphones/mic plus network connection on left make for a very messy setup with cords going every direction.",
+        "term": "cords",
+        "to": 47
+    },
+    "2808_6": {
+        "contra": false,
+        "from": 138,
+        "id": "2808_6",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "Cords coming out the right for power plus cords coming out front for headphones/mic plus network connection on left make for a very messy setup with cords going every direction.",
+        "term": "setup",
+        "to": 143
+    },
+    "2808_7": {
+        "contra": false,
+        "from": 31,
+        "id": "2808_7",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "Cords coming out the right for power plus cords coming out front for headphones/mic plus network connection on left make for a very messy setup with cords going every direction.",
+        "term": "power",
+        "to": 36
+    },
+    "2823_0": {
+        "contra": false,
+        "from": 40,
+        "id": "2823_0",
+        "multi": false,
+        "polarity": "positive",
+        "sentence": "This is a great little computer for the price.",
+        "term": "price",
+        "to": 45
+    },
+    "2898_0": {
+        "contra": false,
+        "from": 60,
+        "id": "2898_0",
+        "multi": false,
+        "polarity": "positive",
+        "sentence": "The Toshiba Satellite has been more than I expected for the price.",
+        "term": "price",
+        "to": 65
+    },
+    "2914_0": {
+        "contra": false,
+        "from": 0,
+        "id": "2914_0",
+        "multi": false,
+        "polarity": "positive",
+        "sentence": "Price and purpose is awesome!",
+        "term": "Price",
+        "to": 5
+    },
+    "2946_0": {
+        "contra": false,
+        "from": 42,
+        "id": "2946_0",
+        "multi": false,
+        "polarity": "positive",
+        "sentence": "Everything about this computer is easy to use.",
+        "term": "use",
+        "to": 45
+    },
+    "29_0": {
+        "contra": false,
+        "from": 19,
+        "id": "29_0",
+        "multi": false,
+        "polarity": "negative",
+        "sentence": "I had to adjust my mousepad sensitivity, because it is very sensitive.",
+        "term": "mousepad sensitivity",
+        "to": 39
+    },
+    "3048_0": {
+        "contra": false,
+        "from": 10,
+        "id": "3048_0",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "I had the staff telling me older version did not make the fan noise cause it is a \"different\" computer.",
+        "term": "staff",
+        "to": 15
+    },
+    "3048_1": {
+        "contra": false,
+        "from": 58,
+        "id": "3048_1",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "I had the staff telling me older version did not make the fan noise cause it is a \"different\" computer.",
+        "term": "fan noise",
+        "to": 67
+    },
+    "315_0": {
+        "contra": false,
+        "from": 125,
+        "id": "315_0",
+        "multi": false,
+        "polarity": "positive",
+        "sentence": "I would recommend this laptop to anyone looking to get a new laptop who is willing to spend a little more money to get great quality!",
+        "term": "quality",
+        "to": 132
+    },
+    "349_0": {
+        "contra": false,
+        "from": 61,
+        "id": "349_0",
+        "multi": false,
+        "polarity": "positive",
+        "sentence": "i also love having the extra calculator number set up on the keyboard which most laptops do not have.",
+        "term": "keyboard",
+        "to": 69
+    },
+    "394_0": {
+        "contra": false,
+        "from": 40,
+        "id": "394_0",
+        "multi": true,
+        "polarity": "neutral",
+        "sentence": "The leather carrying case, keyboard and mouse arrived in two days from Memphis warehouse.",
+        "term": "mouse",
+        "to": 45
+    },
+    "394_1": {
+        "contra": false,
+        "from": 4,
+        "id": "394_1",
+        "multi": true,
+        "polarity": "neutral",
+        "sentence": "The leather carrying case, keyboard and mouse arrived in two days from Memphis warehouse.",
+        "term": "leather carrying case",
+        "to": 25
+    },
+    "394_2": {
+        "contra": false,
+        "from": 27,
+        "id": "394_2",
+        "multi": true,
+        "polarity": "neutral",
+        "sentence": "The leather carrying case, keyboard and mouse arrived in two days from Memphis warehouse.",
+        "term": "keyboard",
+        "to": 35
+    },
+    "504_0": {
+        "contra": false,
+        "from": 23,
+        "id": "504_0",
+        "multi": false,
+        "polarity": "positive",
+        "sentence": "When I called Sony the Customer Service was Great.",
+        "term": "Customer Service",
+        "to": 39
+    },
+    "506_0": {
+        "contra": false,
+        "from": 36,
+        "id": "506_0",
+        "multi": false,
+        "polarity": "neutral",
+        "sentence": "With notes saying they replaced the hard drive.",
+        "term": "hard drive",
+        "to": 46
+    },
+    "544_0": {
+        "contra": true,
+        "from": 39,
+        "id": "544_0",
+        "multi": true,
+        "polarity": "positive",
+        "sentence": "I have other computers that get strong signals that don't drop in places that this \"net\"book loses its signal.",
+        "term": "signals",
+        "to": 46
+    },
+    "544_1": {
+        "contra": true,
+        "from": 103,
+        "id": "544_1",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "I have other computers that get strong signals that don't drop in places that this \"net\"book loses its signal.",
+        "term": "signal",
+        "to": 109
+    },
+    "617_0": {
+        "contra": false,
+        "from": 90,
+        "id": "617_0",
+        "multi": false,
+        "polarity": "negative",
+        "sentence": "No luck, although I waited for hours on the phone-Visited MacHouse, they stated the their call center is down due to too many phonecalls (difficult to believe).",
+        "term": "call center",
+        "to": 101
+    },
+    "63_0": {
+        "contra": false,
+        "from": 26,
+        "id": "63_0",
+        "multi": false,
+        "polarity": "negative",
+        "sentence": "I've also had to have the keyboard replaced at my expense.",
+        "term": "keyboard",
+        "to": 34
+    },
+    "667_0": {
+        "contra": false,
+        "from": 4,
+        "id": "667_0",
+        "multi": false,
+        "polarity": "positive",
+        "sentence": "The battery is really long.",
+        "term": "battery",
+        "to": 11
+    },
+    "712_0": {
+        "contra": false,
+        "from": 41,
+        "id": "712_0",
+        "multi": false,
+        "polarity": "positive",
+        "sentence": "I love my Apple, it is quick and easy to use.",
+        "term": "use",
+        "to": 44
+    },
+    "719_0": {
+        "contra": false,
+        "from": 23,
+        "id": "719_0",
+        "multi": true,
+        "polarity": "positive",
+        "sentence": "It is easy to use, its keyboard easily accommodates large hands, and its weight is fantasic.",
+        "term": "keyboard",
+        "to": 31
+    },
+    "719_1": {
+        "contra": false,
+        "from": 73,
+        "id": "719_1",
+        "multi": true,
+        "polarity": "positive",
+        "sentence": "It is easy to use, its keyboard easily accommodates large hands, and its weight is fantasic.",
+        "term": "weight",
+        "to": 79
+    },
+    "719_2": {
+        "contra": false,
+        "from": 14,
+        "id": "719_2",
+        "multi": true,
+        "polarity": "positive",
+        "sentence": "It is easy to use, its keyboard easily accommodates large hands, and its weight is fantasic.",
+        "term": "use",
+        "to": 17
+    },
+    "734_0": {
+        "contra": false,
+        "from": 32,
+        "id": "734_0",
+        "multi": false,
+        "polarity": "neutral",
+        "sentence": "I would like to use a different operating system altogether.",
+        "term": "operating system",
+        "to": 48
+    },
+    "758_0": {
+        "contra": false,
+        "from": 100,
+        "id": "758_0",
+        "multi": false,
+        "polarity": "negative",
+        "sentence": "Took me 11 hours, 3 trips to different FedEx offices, and brutal conversations with 14 of the worse IT support technicians in the world.",
+        "term": "IT support technicians",
+        "to": 122
+    },
+    "775_0": {
+        "contra": false,
+        "from": 56,
+        "id": "775_0",
+        "multi": false,
+        "polarity": "negative",
+        "sentence": "Unless you want to be inconvenienced with a non working power supply which you can't find a replacement for because they made the attachment so small.",
+        "term": "power supply",
+        "to": 68
+    },
+    "778_0": {
+        "contra": true,
+        "from": 98,
+        "id": "778_0",
+        "multi": true,
+        "polarity": "negative",
+        "sentence": "I spoke with a service rep at Micro Center and his girlfriend is having the same problem with her power adapter, so it's not just an isolated incident!!!",
+        "term": "power adapter",
+        "to": 111
+    },
+    "778_1": {
+        "contra": true,
+        "from": 15,
+        "id": "778_1",
+        "multi": true,
+        "polarity": "neutral",
+        "sentence": "I spoke with a service rep at Micro Center and his girlfriend is having the same problem with her power adapter, so it's not just an isolated incident!!!",
+        "term": "service rep",
+        "to": 26
+    },
+    "808_0": {
+        "contra": false,
+        "from": 70,
+        "id": "808_0",
+        "multi": false,
+        "polarity": "neutral",
+        "sentence": "3 weeks went by and the computer keeps crashing and will not open any applications.",
+        "term": "applications",
+        "to": 82
+    },
+    "811_0": {
+        "contra": false,
+        "from": 21,
+        "id": "811_0",
+        "multi": false,
+        "polarity": "negative",
+        "sentence": "COMPUTER HAS BEEN AT SERVICE FACILITY MORE THAN IN MY HANDS.",
+        "term": "SERVICE FACILITY",
+        "to": 37
+    },
+    "833_0": {
+        "contra": false,
+        "from": 17,
+        "id": "833_0",
+        "multi": false,
+        "polarity": "negative",
+        "sentence": "\u00a0 Worse, for the price I could get a *netbook* that outperforms this machine.",
+        "term": "price",
+        "to": 22
+    },
+    "845_0": {
+        "contra": false,
+        "from": 94,
+        "id": "845_0",
+        "multi": false,
+        "polarity": "neutral",
+        "sentence": "Long story, but after many calls to various  offices, I was told that no one can override the depot and that managers  don't take phone calls or e/mails.",
+        "term": "depot",
+        "to": 99
+    },
+    "848_0": {
+        "contra": false,
+        "from": 130,
+        "id": "848_0",
+        "multi": false,
+        "polarity": "positive",
+        "sentence": "How Toshiba handles the repair seems to vary, some folks  indicate that they were charged for even an intial fix, others had the  repair done 5 times.",
+        "term": "repair",
+        "to": 136
+    },
+    "905_0": {
+        "contra": false,
+        "from": 24,
+        "id": "905_0",
+        "multi": false,
+        "polarity": "negative",
+        "sentence": "I had to pay $100 for a universal charger for this cheap $300 laptop.",
+        "term": "universal charger",
+        "to": 41
+    },
+    "908_0": {
+        "contra": false,
+        "from": 93,
+        "id": "908_0",
+        "multi": false,
+        "polarity": "negative",
+        "sentence": "Also, my sister got the exact same laptop (since they were so cheap) and after 8 months, the screen split in half just from everyday use.",
+        "term": "screen",
+        "to": 99
+    }
+}
