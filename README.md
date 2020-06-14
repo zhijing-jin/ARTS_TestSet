@@ -10,11 +10,7 @@ We provide a **Aspect Robustness Probing** test set for [SemEval 2014](http://al
 
 - We generate our new probing test set by **automatic strategies**: 
 
-<object data="data/img/overview.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="data/img/overview.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="data/img/overview.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+![image_of_overview](data/img/overview.png)
 
 ### How to Use Our Code
 If you have a **new** ABSA dataset, you can run our code to generate you own **aspect robustness probing** test set.
