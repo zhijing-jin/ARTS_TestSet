@@ -510,7 +510,7 @@ if __name__ == '__main__':
     strategy = 'revTgt'
 
     data_folder = 'data/src_data/{}/'.format(dataset)
-    input_file = os.path.join(data_folder, '2_test_sent.json')
+    input_file = os.path.join(data_folder, 'test_sent_towe.json')
     output_file = os.path.join(data_folder, 'test_adv.json')
 
     if strategy == 'revTgt':
@@ -518,5 +518,5 @@ if __name__ == '__main__':
     elif strategy == 'revNon':
         revNon(data_folder, input_file, output_file)
     elif strategy == 'addDiff':
-        addDiff(dataset, os.path.join(data_folder, '2_train_sent.json'),
+        addDiff(dataset, os.path.join(data_folder, 'train_sent_towe.json'),
                 os.path.join(data_folder, 'test_sent.json'), output_file)
