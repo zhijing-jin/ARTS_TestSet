@@ -9,9 +9,9 @@ We provide a **Aspect Robustness Probing** test set for [SemEval 2014](http://al
 ### Data Generation Process
 
 We generate our new probing test set by **three automatic strategies**: 
-- <span style="color:blue">RevTgt (red)</span>: Reverse the sentiment of the Target aspect.
-- <span style="color:blue">RevNon (green)</span>: Reverse the sentiment of the Non-target aspect.
-- <span style="color:blue">AddDiff (blue)</span>: Add new aspects with Different sentiment.
+- <span style="color:blue">RevTgt (sentence with a red background)</span>: Reverse the sentiment of the Target aspect.
+- <span style="color:blue">RevNon (sentence with a green background)</span>: Reverse the sentiment of the Non-target aspect.
+- <span style="color:blue">AddDiff (sentence with a blue background)</span>: Add new aspects with Different sentiment.
 
 
 <img src="data/img/overview.png" alt="drawing" width="600" style="display: block;
