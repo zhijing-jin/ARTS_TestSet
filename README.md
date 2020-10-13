@@ -16,7 +16,7 @@ We generate our new probing test set by **three automatic strategies**:
 - <span style="color:blue">AddDiff (sentence with a blue background)</span>: Add new aspects with Different sentiment.
 
 
-<img src="data/img/overview.png" alt="drawing" width="600" style="display: block;
+<img src="data/img/method.png" alt="method_illustration.png" width="600" style="display: block;
   margin-left: auto;
   margin-right: auto; "/>
 
