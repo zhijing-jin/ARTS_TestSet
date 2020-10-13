@@ -1,10 +1,12 @@
 
 This is the repository for our 2020 paper 
-"[**Tasty Burgers, Soggy Fries: Probing Aspect Robustness in Aspect-Based Sentiment Analysis**](http://zhijing-jin.com/files/papers/absa2020.pdf)".
+"[**Tasty Burgers, Soggy Fries: Probing Aspect Robustness in Aspect-Based Sentiment Analysis**](https://arxiv.org/pdf/2009.07964)".
 
 ## Data
 We provide a **Aspect Robustness Probing** test set for [SemEval 2014](http://alt.qcri.org/semeval2014/task4/) Aspect-Based Sentiment Analysis (ABSA).
 - Our new enriched test sets are at [data/arts_testset](data/arts_testset/)
+- Our `AspectSet` mentioned in the paper Section 2.3 (Table 4) is provided in [data/aspectset](data/aspectset/)
+
 
 ### Data Generation Process
 
