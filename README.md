@@ -31,6 +31,9 @@ If you have a **new** ABSA dataset, you can run our code to generate you own **a
 python code/main.py -dataset_name laptop
 ``` 
 
+### Dependencies
+- Version of allennlp package: You can install allennlp-2.5.0 with the Predictor https://s3-us-west-2.amazonaws.com/allennlp/models/elmo-constituency-parser-2020.02.10.tar.gz
+
 ## More Questions
 If you have more questions, please feel free to submit a [GitHub issue](https://github.com/zhijing-jin/ARTS_testset/issues).
 
