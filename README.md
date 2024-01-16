@@ -44,7 +44,7 @@ python code/main.py -dataset_name laptop
 
 ### All Trained Models
 
-If needed, see a dump of all the trained models and output files on [Edmond](https://edmond.mpg.de/) titled `Supplementary Model Files for "Tasty Burgers, Soggy Fries: Probing Aspect Robustness in Aspect-Based Sentiment Analysis"`.
+If needed, see a dump of all the trained models and output files [here](https://edmond.mpg.de/dataset.xhtml?persistentId=doi%3A10.17617%2F3.VKWOI9).
 
 ## More Questions
 
